@@ -1,0 +1,20 @@
+// Fill from the user's materials. Empty fields are not invented.
+#let info = (
+  ministry: "Министерство науки и высшего образования Российской Федерации",
+  organization: "Федеральное государственное автономное образовательное учреждение высшего образования",
+  university: "Московский авиационный институт",
+  university-detail: "(национальный исследовательский университет)",
+  department: "",
+  work-kind: "Лабораторная работа",
+  discipline: "",
+  topic: "",
+  variant: "",
+  group: "",
+  students: (),
+  student-label: "Выполнил:",
+  teacher-label: "Проверил:",
+  teacher-position: "",
+  teacher: "",
+  city: "Москва",
+  year: "",
+)

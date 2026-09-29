@@ -1,0 +1,4 @@
+interface:
+  display_name: "Студенческие отчёты: Typst и Word"
+  short_description: "Модульные отчёты, выбор титула, PDF и DOCX"
+  default_prompt: "Используй $student-report-typst-gost-7-32-2001: создай модульный отчёт по моим материалам, уточни вариант титула и подготовь нужные PDF/DOCX."
